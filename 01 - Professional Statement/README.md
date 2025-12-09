@@ -1,8 +1,4 @@
-# Cybersecurity Professional Statement
-
-This repository contains my professional cybersecurity statement as part of my portfolio for the Google Cybersecurity Professional Certificate.
-
-## 👨‍💻 Professional Cybersecurity Statement
+# Professional Cybersecurity Statement
 
 I am an enthusiastic cybersecurity learner who is deeply passionate about technology and constantly motivated to expand my skills in the security field. I enjoy exploring how information flows online, understanding how attackers think, and ethically uncovering publicly available data to strengthen digital safety. My strengths include fast learning, strong curiosity, problem-solving, and the ability to communicate complex ideas clearly.
 
