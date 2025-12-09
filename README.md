@@ -12,7 +12,7 @@ A summary of my cybersecurity strengths, values, and motivations.
 🔗 [01 - Professional Statement](https://github.com/ateebahmedkhan/google-cybersecurity-certificate-portfolio/tree/main/01%20-%20Professional%20Statement)
 
 ### 02 – Incident Response Case Study  
-🔗 https://github.com/ateebahmedkhan/google-cybersecurity-certificate-portfolio/tree/main/02%20-%20Conduct%20an%20Audit
+🔗 [02 - Conduct an Audit](https://github.com/ateebahmedkhan/google-cybersecurity-certificate-portfolio/tree/main/02%20-%20Conduct%20an%20Audit)
 
 ### 03 – Linux Log Analysis  
 
